@@ -7,7 +7,7 @@ class cUser{
     }
 
     getFullName(){
-        return `${this.name} ${this.surname}`;
+        return `'${this.name} ${this.surname}'`;
     }
 
     addPet(petName){
