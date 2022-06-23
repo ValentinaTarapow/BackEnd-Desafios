@@ -1,4 +1,3 @@
-const Contenedor = require('./files.js');
 const express = require('express');
 const cContainer = require('./files.js');
 const app = express();
