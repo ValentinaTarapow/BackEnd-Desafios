@@ -1,0 +1,1 @@
+El motor de plantilla que mas me gusto fue PUG porque me parece el mas simple de implementar la parte de la plantilla (a diferencia de EJS) y de configurar (a diferencia de handeblars).
